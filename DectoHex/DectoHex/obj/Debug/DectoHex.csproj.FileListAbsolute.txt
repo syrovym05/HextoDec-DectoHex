@@ -1,0 +1,10 @@
+G:\PRG\DectoHex\DectoHex\obj\Debug\DectoHex.csproj.AssemblyReference.cache
+G:\PRG\DectoHex\DectoHex\obj\Debug\DectoHex.Form1.resources
+G:\PRG\DectoHex\DectoHex\obj\Debug\DectoHex.Properties.Resources.resources
+G:\PRG\DectoHex\DectoHex\obj\Debug\DectoHex.csproj.GenerateResource.cache
+G:\PRG\DectoHex\DectoHex\obj\Debug\DectoHex.csproj.CoreCompileInputs.cache
+G:\PRG\DectoHex\DectoHex\bin\Debug\DectoHex.exe.config
+G:\PRG\DectoHex\DectoHex\bin\Debug\DectoHex.exe
+G:\PRG\DectoHex\DectoHex\bin\Debug\DectoHex.pdb
+G:\PRG\DectoHex\DectoHex\obj\Debug\DectoHex.exe
+G:\PRG\DectoHex\DectoHex\obj\Debug\DectoHex.pdb
